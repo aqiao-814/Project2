@@ -59,6 +59,7 @@ p, li{
   float: right;
   position: relative; 
   top: -150px;
+  right: 150px;
 }
 #gcontainer{
   width: 300px;
