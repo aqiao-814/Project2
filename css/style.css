@@ -67,7 +67,8 @@ p, li{
   width: 400px;
 	height: 200;
 	margin: 10px;
-	padding: 10px;
+	padding: 0px;
+  text-align: center;
 }
 #aboutmeh1{
   font-family: 'Kaushan Script', cursive;
