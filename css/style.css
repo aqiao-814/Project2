@@ -64,8 +64,9 @@ p, li{
 #aboutmeimg{
   float: right;
   position: relative; 
-  top: -50px;
-  right: 150px;
+  top: -140px;
+  right: 250px;
+  z-index: 15;
 }
 #gcontainer{
   width: 300px;
@@ -75,9 +76,18 @@ p, li{
   float: right;
 }
 #indexp{
-  width: 400px;
+  width: 450px;
 	height: 200;
 	margin: 10px;
 	padding: 0px;
   text-align: center;
+}
+.box{
+  float: right;
+  position: relative;
+  top: -170px;
+  right: -250px;
+  width: 465px;
+  height: 448px;
+  background-color: #30BFBF;
 }
