@@ -2,6 +2,10 @@
   font-family: 'Noto Sans SC', sans-serif;
 }
 
+#talign {
+  text-align: center;
+}
+
 /* all 3 page nav */
 #main-navbar{
   background-color: #333333;
@@ -38,4 +42,17 @@
 }
 #onpage{
   text-decoration: underline;
+}
+
+/* about me page */
+#goal{
+  float: right;
+  border-radius: 100%
+}
+#gcontainer1{
+  width: 300px;
+	height: 500px;
+	margin: 10px;
+	padding: 10px;
+  float: right;
 }
