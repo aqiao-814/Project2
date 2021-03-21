@@ -12,6 +12,9 @@ p, li{
   display: flex;
   justify-content: center;
 }
+#floatclear{
+  clear: both;
+}
 
 /* all 3 page nav */
 #main-navbar{
@@ -52,9 +55,10 @@ p, li{
 }
 
 /* about me page */
-#goal{
+#aboutmeimg{
   float: right;
-  border-radius: 100%
+  position: relative; 
+  top: -150px;
 }
 #gcontainer{
   width: 300px;
