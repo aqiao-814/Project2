@@ -1,3 +1,7 @@
+.dfont {
+  font-family: 'Noto Sans SC', sans-serif;
+}
+
 /* all 3 page nav */
 #main-navbar{
   background-color: #333333;
