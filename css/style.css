@@ -2,8 +2,12 @@
   font-family: 'Noto Sans SC', sans-serif;
 }
 
-#talign {
+.talign {
   text-align: center;
+}
+
+.center {
+  
 }
 
 /* all 3 page nav */
