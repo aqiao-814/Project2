@@ -1,12 +1,13 @@
+p, li{
+  color: #707C80;
+}
 .dfont {
   font-family: 'Noto Sans SC', sans-serif;
 }
-
 .talign {
   margin: 0;
   text-align: center;
 }
-
 .center {
   display: flex;
   justify-content: center;
@@ -55,10 +56,20 @@
   float: right;
   border-radius: 100%
 }
-#gcontainer1{
+#gcontainer{
   width: 300px;
 	height: 500px;
 	margin: 10px;
 	padding: 10px;
   float: right;
+}
+#indexp{
+  width: 400px;
+	height: 200;
+	margin: 10px;
+	padding: 10px;
+}
+#aboutmeh1{
+  font-family: 'Kaushan Script', cursive;
+  font-size: 75px;
 }
