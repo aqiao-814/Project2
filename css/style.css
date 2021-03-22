@@ -123,6 +123,7 @@ p, li{ /*yes*/
   background-color: #fff;
   padding: 1em;
   font-size: 0.7em;
+  font-size: 0.8vw;
   width: 50%;
 }
 .photoresize{
@@ -148,7 +149,8 @@ p, li{ /*yes*/
 }
 .edu{
   position: relative;
-  height: 19em;
+  margin-bottom: 1em;
+  height: 24em;
   width: 30em;
 }
 .extra{
@@ -157,7 +159,7 @@ p, li{ /*yes*/
   height: 19em;
   width: 30em;
   right: 10em;
-  top: -48.5em;
+  top: -56.5em;
 }
 .imgadj2{
   margin-bottom: 1em;
