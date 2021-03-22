@@ -135,7 +135,6 @@ p, li{
   position: relative;
   height: auto;
   width: 50%;
-  /*background-color: #30BFBF;*/
 }
 #imgright{
   float: right;
@@ -143,4 +142,23 @@ p, li{
 .imgadj{
   height: 80%;
   width: 90%;
+}
+/* resume page */
+.nativefont{
+  font-family: sans-serif;
+}
+#education{
+  width: 650px;
+	height: 200;
+	margin: 10px;
+	padding: 0px;
+}
+#extraact{
+  float: right;
+  position: relative;
+  top: -19em;
+  width: 650px;
+	height: 200;
+	margin: 10px;
+	padding: 0px;
 }
