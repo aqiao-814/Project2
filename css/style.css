@@ -12,10 +12,10 @@ p, li{
   display: flex;
   justify-content: center;
 }
-#floatclear{
+.floatclear{
   clear: both;
 }
-#title{ 
+.title{ 
   font-family: 'Kaushan Script', cursive;
   font-size: 4.6875em;
   color: #30BFBF;
@@ -82,7 +82,7 @@ p, li{
   border-radius: 150%;
   z-index: 15;
 }
-#gcontainer{
+.gcontainer{
   width: 18.75em;
 	height: 31.25em;
 	margin: 0.625em;
