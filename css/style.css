@@ -136,8 +136,10 @@ p, li{
   height: auto;
   width: 50%;
 }
-#imgright{
+.imgright{
   float: right;
+  position: relative;
+  right: -4.5em;
 }
 .imgadj{
   height: 80%;
