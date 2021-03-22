@@ -21,7 +21,6 @@ p, li{
   color: #30BFBF;
   margin: 0;
 }
-
 /* all 3 page nav */
 #main-navbar{
   background-color: #333333;
@@ -59,8 +58,11 @@ p, li{
 #onpage{
   text-decoration: underline;
 }
-
 /* about me page */
+#wrapper {
+	width: 85.25em;
+	margin: auto;
+}
 #aboutmeimg{
   float: right;
   position: relative; 
@@ -115,4 +117,16 @@ p, li{
 	height: 360px;
   border-radius: 150%;
   background-color: #30BFBF;
+}
+/* interest page */
+#interesttext1{
+  width: 40em;
+	height: auto;
+	margin: 10px;
+	padding: 0px;
+  text-align: none;
+}
+.interestsfixed{
+  position: fixed;
+  background-color: #fff;
 }
