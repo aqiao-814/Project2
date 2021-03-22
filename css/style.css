@@ -17,7 +17,7 @@ p, li{ /*yes*/
 }
 #title{ /*yes*/
   font-family: 'Kaushan Script', cursive;
-  font-size: 75px;
+  font-size: 4.6875em;
   color: #30BFBF;
   margin: 0;
 }
@@ -47,7 +47,7 @@ p, li{ /*yes*/
 }
 #main-navbar ul li a{
   display: block;
-  padding: 10px 20px;
+  padding: 0.625em 1.25em;
   color: #fff;
   text-decoration: none;
   font-weight: 100;
@@ -66,8 +66,8 @@ p, li{ /*yes*/
 #aboutmeimg{
   float: right;
   position: relative; 
-  top: -140px;
-  right: 250px;
+  top: -8.75em;
+  right: 15.625em;
   z-index: 15;
 }
 #goalimg{
@@ -76,33 +76,32 @@ p, li{ /*yes*/
   margin-right: auto;
   width: 50%;
   position: relative;
-  top: -530px;
-  width: 440px;
-	height: 360px;
+  top: -33.125em;
+  width: 27.5em;
+	height: 22.5em;
   border-radius: 150%;
   z-index: 15;
 }
 #gcontainer{
-  width: 300px;
-	height: 500px;
-	margin: 10px;
-	padding: 10px;
+  width: 18.75em;
+	height: 31.25em;
+	margin: 0.625em;
+	padding: 0.625em;
   float: right;
 }
 #indexp{
-  width: 450px;
-	height: 200;
-	margin: 10px;
-	padding: 0px;
+  width: 28.125em;
+	margin: 0.625em;
+	padding: 0em;
   text-align: center;
 }
 .box{
   float: right;
   position: relative;
-  top: -170px;
-  right: -250px;
-  width: 465px;
-  height: 448px;
+  top: -10.625em;
+  right: -15.625em;
+  width: 29.065em;
+  height: 28em;
   background-color: #30BFBF;
 }
 .circle{
@@ -111,10 +110,10 @@ p, li{ /*yes*/
   margin-right: auto;
   width: 50%;
   position: relative;
-  top: -150px;
-  right: 10px;
-  width: 440px;
-	height: 360px;
+  top: -9.375em;
+  right: 0.625em;
+  width: 27.5em;
+	height: 22.5em;
   border-radius: 150%;
   background-color: #30BFBF;
 }
