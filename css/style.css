@@ -147,25 +147,21 @@ p, li{
 .nativefont{
   font-family: sans-serif;
 }
-#education{
-  width: 650px;
-	height: 200;
-	margin: 10px;
-	padding: 0px;
+.edu{
+  position: relative;
+  height: 19em;
+  width: 30em;
 }
-.extraact{
+.extra{
   float: right;
   position: relative;
-  top: -21.2em;
-  width: 650px;
-	height: auto;
-	margin: 10px;
-	padding: 0px;
+  height: 19em;
+  width: 30em;
+  right: 10em;
+  top: -48.5em;
 }
-#eventborder{
-  width: auto;
-	height: auto;
-  padding-left: 1em;
-  border-style: solid;
-  border-color: #30BFBF;
+.imgadj2{
+  margin-bottom: 1em;
+  height: 15%;
+  width: 15%;
 }
