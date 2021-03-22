@@ -122,6 +122,25 @@ p, li{
 #interesttext{
   position: fixed;
   background-color: #fff;
+  padding: 1em;
   font-size: 0.7em;
   width: 50%;
+}
+.photoresize{
+  height: 50%;
+  width: 90%;
+}
+.imgcontainer{
+  float: right;
+  position: relative;
+  height: auto;
+  width: 50%;
+  /*background-color: #30BFBF;*/
+}
+#imgright{
+  float: right;
+}
+.imgadj{
+  height: 80%;
+  width: 90%;
 }
