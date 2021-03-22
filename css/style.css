@@ -22,8 +22,8 @@ p, li{
   margin: 0em;
 }
 #wrapper {
-	width: 85.25em;
-	margin: auto;
+  width: 85.25em;
+  margin: auto;
 }
 /* all 3 page nav */
 #main-navbar{
@@ -78,21 +78,21 @@ p, li{
   position: relative;
   top: -33.125em;
   width: 27.5em;
-	height: 22.5em;
+  height: 22.5em;
   border-radius: 150%;
   z-index: 15;
 }
 .gcontainer{
   width: 18.75em;
-	height: 31.25em;
-	margin: 0.625em;
-	padding: 0.625em;
+  height: 31.25em;
+  margin: 0.625em;
+  padding: 0.625em;
   float: right;
 }
 .indexp{
   width: 28.125em;
-	margin: 0.625em;
-	padding: 0em;
+  margin: 0.625em;
+  padding: 0em;
   text-align: center;
 }
 .box{
@@ -113,7 +113,7 @@ p, li{
   top: -9.375em;
   right: 0.625em;
   width: 27.5em;
-	height: 22.5em;
+  height: 22.5em;
   border-radius: 150%;
   background-color: #30BFBF;
 }
