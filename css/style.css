@@ -1,10 +1,10 @@
-p, li{ /*yes*/
+p, li{ 
   color: #707C80;
 }
 .dfont {
   font-family: 'Noto Sans SC', sans-serif;
 }
-.talign { /*yes*/
+.talign { 
   margin: 0;
   text-align: center;
 }
@@ -15,13 +15,17 @@ p, li{ /*yes*/
 #floatclear{
   clear: both;
 }
-#title{ /*yes*/
+#title{ 
   font-family: 'Kaushan Script', cursive;
   font-size: 4.6875em;
   color: #30BFBF;
   margin: 0;
 }
-/* all 3 page nav */ /*yes*/
+#wrapper {
+	width: 85.25em;
+	margin: auto;
+}
+/* all 3 page nav */
 #main-navbar{
   background-color: #333333;
   overflow: hidden;
@@ -59,10 +63,6 @@ p, li{ /*yes*/
   text-decoration: underline;
 }
 /* about me page */
-#wrapper {
-	width: 85.25em;
-	margin: auto;
-}
 #aboutmeimg{
   float: right;
   position: relative; 
