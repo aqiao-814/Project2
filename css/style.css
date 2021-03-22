@@ -1,10 +1,10 @@
-p, li{
+p, li{ /*yes*/
   color: #707C80;
 }
 .dfont {
   font-family: 'Noto Sans SC', sans-serif;
 }
-.talign {
+.talign { /*yes*/
   margin: 0;
   text-align: center;
 }
@@ -15,13 +15,13 @@ p, li{
 #floatclear{
   clear: both;
 }
-#title{
+#title{ /*yes*/
   font-family: 'Kaushan Script', cursive;
   font-size: 75px;
   color: #30BFBF;
   margin: 0;
 }
-/* all 3 page nav */
+/* all 3 page nav */ /*yes*/
 #main-navbar{
   background-color: #333333;
   overflow: hidden;
@@ -144,7 +144,7 @@ p, li{
   width: 90%;
 }
 /* resume page */
-.nativefont{
+#nativefont{
   font-family: sans-serif;
 }
 .edu{
