@@ -68,6 +68,18 @@ p, li{
   right: 250px;
   z-index: 15;
 }
+#goalimg{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  position: relative;
+  top: -530px;
+  width: 440px;
+	height: 360px;
+  border-radius: 150%;
+  z-index: 15;
+}
 #gcontainer{
   width: 300px;
 	height: 500px;
@@ -89,5 +101,18 @@ p, li{
   right: -250px;
   width: 465px;
   height: 448px;
+  background-color: #30BFBF;
+}
+.circle{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  position: relative;
+  top: -150px;
+  right: 10px;
+  width: 440px;
+	height: 360px;
+  border-radius: 150%;
   background-color: #30BFBF;
 }
