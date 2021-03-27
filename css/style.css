@@ -22,7 +22,7 @@ p, li{
   margin: 0em;
 }
 #wrapper {
-  width: 85.25em;
+  width: 88.25em;
   margin: auto;
 }
 /* all 3 page nav */
@@ -83,9 +83,10 @@ p, li{
   z-index: 15;
 }
 .gcontainer{
+  box-shadow: 10px 10px 5px #777777;
   width: 18.75em;
-  height: 31.25em;
-  margin: 0.625em;
+  height: 21.25em;
+  margin: 0.925em;
   padding: 0.625em;
   float: right;
 }
@@ -116,6 +117,10 @@ p, li{
   height: 22.5em;
   border-radius: 150%;
   background-color: #30BFBF;
+}
+.shift-down{
+  position: relative;
+  top: 15em;
 }
 /* interest page */
 #interesttext{
