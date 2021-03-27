@@ -130,6 +130,7 @@ p, li{
   font-size: 0.7em;
   font-size: 0.8vw;
   width: 48%;
+  height: inherit;
 }
 .photoresize{
   height: 50%;
