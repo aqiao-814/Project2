@@ -129,7 +129,7 @@ p, li{
   padding: 1em;
   font-size: 0.7em;
   font-size: 0.8vw;
-  width: 50%;
+  width: 48%;
 }
 .photoresize{
   height: 50%;
@@ -140,11 +140,7 @@ p, li{
   position: relative;
   height: auto;
   width: 50%;
-}
-.imgright{
-  float: right;
-  position: relative;
-  right: -4.5em;
+  background-color: #333333;
 }
 .imgadj{
   height: 80%;
@@ -173,3 +169,4 @@ p, li{
   height: 15%;
   width: 15%;
 }
+
