@@ -160,14 +160,34 @@ p, li{
 .extra{
   float: right;
   position: relative;
-  height: 19em;
-  width: 30em;
-  right: 10em;
-  top: -56.5em;
+  height: auto;
+  width: 40em;
+  right: 11em;
+  top: -0.5em;
 }
-.imgadj2{
+.reimg{
   margin-bottom: 1em;
-  height: 15%;
-  width: 15%;
+  margin-top: 3em;
+  height: relative;
+  width: 50%;
+  border-radius: 75%;
+  margin-left: 7.9em;
+}
+.extra-box{
+  box-shadow: 10px 10px 5px #777777;
+  width: auto;
+  height: auto;
+  margin: 0.925em;
+  padding: 0.625em;
+}
+.resume-side{
+  float: left;
+  background-color: #DBF3FA;
+  padding-left: 1em;
+  padding-right: 1em;
+  height: 130em;
+  position: relative;
+  top: -6.8em;
+  width: 33em;
 }
 
