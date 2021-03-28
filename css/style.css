@@ -185,9 +185,18 @@ p, li{
   background-color: #DBF3FA;
   padding-left: 1em;
   padding-right: 1em;
-  height: 130em;
+  height: 133.6em;
   position: relative;
   top: -6.8em;
   width: 33em;
+}
+.rrectangle{
+  clear: both;
+  width: 88.2em;
+  height: 5em;
+  background-color: #333333;
+  position: relative;
+  top: 10em;
+  right: 37.2em;
 }
 
